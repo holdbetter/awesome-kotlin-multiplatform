@@ -14,6 +14,7 @@
 - [TMDbMultiplatform](https://github.com/Drjacky/TMDbMultiplatform#readme)
 - [kmm-basic-sample](https://github.com/Kotlin/kmm-basic-sample#readme)
 - [Expressus](https://github.com/GuilhE/Expressus#readme)
+- [PremierLeague](https://github.com/holdbetter/PremierLeague)
 
 
 ## Templates
